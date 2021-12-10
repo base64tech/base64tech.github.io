@@ -67,11 +67,11 @@
 
   justify-content: center;
   align-items: center;
-  background: #fcb315;
+  background: #43b3e6;
 }
 
 .cardBack {
-  background: #ffa401;
+  background: #0177be;
   transform: rotateY(180deg);
 }
 
