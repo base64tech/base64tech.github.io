@@ -22,7 +22,7 @@ const Home: NextPage = () => {
           <div>
             <h2 className={styles.h2}>Blockchain & Web3</h2>
             <p className={styles.p}>Base64 promotes web3 principals to empower teams with optimized strategies that act as accelerators for their NFT projects. We provide a community incubator where artists and developers can collaborate on their ideas with the support of a team of NFT veterans.</p>
-            <p className={styles.p}>Check out our latest projects.</p>
+            {/* <p className={styles.p}>Check out our latest projects.</p> */}
           </div>
           <div>
             <img src="/assets/img/asset-1.svg" />
@@ -37,7 +37,7 @@ const Home: NextPage = () => {
             <h2 className={styles.h2}>Bespoke Crypto Experiences</h2>
             {/* <p className={styles.p}>We deliver an overall solution including:</p> */}
             <p className={styles.p}>
-              Base64 wants to curate and create best-of-class user experiences. Enjoyooooorrr
+              Base64 wants to curate and create best-of-class user experiences, whether working with partners or on our own endeavors. Everyone shall be an enjoyooooorrr!
             </p>
           </div>
 
