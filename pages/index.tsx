@@ -9,7 +9,7 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Base64</title>
-        <meta name="description" content="Base64" />
+        <meta name="description" content="Base64 promotes web3 principals to empower teams with optimized strategies that act as accelerators for their NFT projects. We provide a community incubator where artists and developers can collaborate on their ideas with the support of a team of NFT veterans." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
